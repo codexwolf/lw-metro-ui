@@ -1,0 +1,37 @@
+C82344 pink
+19A054 green
+532203 medium brown
+CBE609 yellow1
+034480 blue
+651858 purple
+1B3042 dark blue
+D5B200 yellow2
+427E17 green2
+E76422 orange
+931411 red
+7F9076 light grey
+C9ABD0 light purple
+151A1C dark grey
+48A1A9 dark cyan
+E7AD09 yellow3
+200044 dark purple
+758C00 yellow green
+
+postbox
+1C1C1C
+
+blue
+00A9DA
+4DC3E5
+
+lime
+8EBC00
+B0D04D
+
+pink
+DD1F8F
+E763B1
+
+purple
+6800D3
+964DE0
