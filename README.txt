@@ -10,15 +10,10 @@ Simply copy the "lw-metro-ui" folder to your /wp-content/themes folder.
 Then activate the theme through your WordPress admin.
 
 
-Please visit the official page for more details.
-http://www.syaoran.net/lw-metro-ui
-
-
 COPYRIGHT:
 LW Metro UI is released under GPLv2. See the license.txt file.
 
 
 Thanks for using LW Metro UI!
 
-Patrick Villaranda
-www.syaoran.net
+Patrick
